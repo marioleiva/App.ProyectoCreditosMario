@@ -1,0 +1,12 @@
+C:\Users\mleiva\source\repos\App.ProyectoCreditosMario\App.Service.Implementacion\bin\Debug\net9.0\App.Service.Implementacion.deps.json
+C:\Users\mleiva\source\repos\App.ProyectoCreditosMario\App.Service.Implementacion\bin\Debug\net9.0\App.Service.Implementacion.dll
+C:\Users\mleiva\source\repos\App.ProyectoCreditosMario\App.Service.Implementacion\bin\Debug\net9.0\App.Service.Implementacion.pdb
+C:\Users\mleiva\source\repos\App.ProyectoCreditosMario\App.Service.Implementacion\obj\Debug\net9.0\App.Service.Implementacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mleiva\source\repos\App.ProyectoCreditosMario\App.Service.Implementacion\obj\Debug\net9.0\App.Service.Implementacion.AssemblyInfoInputs.cache
+C:\Users\mleiva\source\repos\App.ProyectoCreditosMario\App.Service.Implementacion\obj\Debug\net9.0\App.Service.Implementacion.AssemblyInfo.cs
+C:\Users\mleiva\source\repos\App.ProyectoCreditosMario\App.Service.Implementacion\obj\Debug\net9.0\App.Service.Implementacion.csproj.CoreCompileInputs.cache
+C:\Users\mleiva\source\repos\App.ProyectoCreditosMario\App.Service.Implementacion\obj\Debug\net9.0\App.Service.Implementacion.dll
+C:\Users\mleiva\source\repos\App.ProyectoCreditosMario\App.Service.Implementacion\obj\Debug\net9.0\refint\App.Service.Implementacion.dll
+C:\Users\mleiva\source\repos\App.ProyectoCreditosMario\App.Service.Implementacion\obj\Debug\net9.0\App.Service.Implementacion.pdb
+C:\Users\mleiva\source\repos\App.ProyectoCreditosMario\App.Service.Implementacion\obj\Debug\net9.0\ref\App.Service.Implementacion.dll
+C:\Users\mleiva\source\repos\App.ProyectoCreditosMario\App.Service.Implementacion\obj\Debug\net9.0\App.Service.Implementacion.csproj.AssemblyReference.cache

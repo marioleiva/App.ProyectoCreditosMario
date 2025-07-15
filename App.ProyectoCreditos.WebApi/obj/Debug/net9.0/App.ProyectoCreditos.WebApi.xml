@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>App.ProyectoCreditos.WebApi</name>
+    </assembly>
+    <members>
+        <member name="M:App.ProyectoCreditos.WebApi.Controllers.FileController.UploadFile(App.Service.Implementacion.Request.FileUploadDTO)">
+            <summary>
+            EndPoint para subir un archivo
+            </summary>
+            <param name="request">información de archivo</param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

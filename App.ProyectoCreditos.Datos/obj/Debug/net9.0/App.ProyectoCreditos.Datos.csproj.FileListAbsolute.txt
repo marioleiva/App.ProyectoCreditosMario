@@ -1,0 +1,11 @@
+C:\Users\mleiva\source\repos\App.ProyectoCreditosMario\App.ProyectoCreditos.Datos\bin\Debug\net9.0\App.ProyectoCreditos.Datos.deps.json
+C:\Users\mleiva\source\repos\App.ProyectoCreditosMario\App.ProyectoCreditos.Datos\bin\Debug\net9.0\App.ProyectoCreditos.Datos.dll
+C:\Users\mleiva\source\repos\App.ProyectoCreditosMario\App.ProyectoCreditos.Datos\bin\Debug\net9.0\App.ProyectoCreditos.Datos.pdb
+C:\Users\mleiva\source\repos\App.ProyectoCreditosMario\App.ProyectoCreditos.Datos\obj\Debug\net9.0\App.ProyectoCreditos.Datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mleiva\source\repos\App.ProyectoCreditosMario\App.ProyectoCreditos.Datos\obj\Debug\net9.0\App.ProyectoCreditos.Datos.AssemblyInfoInputs.cache
+C:\Users\mleiva\source\repos\App.ProyectoCreditosMario\App.ProyectoCreditos.Datos\obj\Debug\net9.0\App.ProyectoCreditos.Datos.AssemblyInfo.cs
+C:\Users\mleiva\source\repos\App.ProyectoCreditosMario\App.ProyectoCreditos.Datos\obj\Debug\net9.0\App.ProyectoCreditos.Datos.csproj.CoreCompileInputs.cache
+C:\Users\mleiva\source\repos\App.ProyectoCreditosMario\App.ProyectoCreditos.Datos\obj\Debug\net9.0\App.ProyectoCreditos.Datos.dll
+C:\Users\mleiva\source\repos\App.ProyectoCreditosMario\App.ProyectoCreditos.Datos\obj\Debug\net9.0\refint\App.ProyectoCreditos.Datos.dll
+C:\Users\mleiva\source\repos\App.ProyectoCreditosMario\App.ProyectoCreditos.Datos\obj\Debug\net9.0\App.ProyectoCreditos.Datos.pdb
+C:\Users\mleiva\source\repos\App.ProyectoCreditosMario\App.ProyectoCreditos.Datos\obj\Debug\net9.0\ref\App.ProyectoCreditos.Datos.dll

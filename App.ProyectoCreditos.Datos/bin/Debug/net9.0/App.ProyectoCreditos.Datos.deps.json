@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "App.ProyectoCreditos.Datos/1.0.0": {
+        "runtime": {
+          "App.ProyectoCreditos.Datos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "App.ProyectoCreditos.Datos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
