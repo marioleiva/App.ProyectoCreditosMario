@@ -981,11 +981,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mleiva\\source\\repos\\App.ProyectoCreditosMario\\App.ProyectoCreditos.WebApi\\App.ProyectoCreditos.WebApi.csproj",
+      "projectUniqueName": "E:\\APP_GIT\\App.ProyectoCreditosMario\\App.ProyectoCreditos.WebApi\\App.ProyectoCreditos.WebApi.csproj",
       "projectName": "App.ProyectoCreditos.WebApi",
-      "projectPath": "C:\\Users\\mleiva\\source\\repos\\App.ProyectoCreditosMario\\App.ProyectoCreditos.WebApi\\App.ProyectoCreditos.WebApi.csproj",
+      "projectPath": "E:\\APP_GIT\\App.ProyectoCreditosMario\\App.ProyectoCreditos.WebApi\\App.ProyectoCreditos.WebApi.csproj",
       "packagesPath": "C:\\Users\\mleiva\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mleiva\\source\\repos\\App.ProyectoCreditosMario\\App.ProyectoCreditos.WebApi\\obj\\",
+      "outputPath": "E:\\APP_GIT\\App.ProyectoCreditosMario\\App.ProyectoCreditos.WebApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1006,8 +1006,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "C:\\Users\\mleiva\\source\\repos\\App.ProyectoCreditosMario\\App.Service.Implementacion\\App.Service.Implementacion.csproj": {
-              "projectPath": "C:\\Users\\mleiva\\source\\repos\\App.ProyectoCreditosMario\\App.Service.Implementacion\\App.Service.Implementacion.csproj"
+            "E:\\APP_GIT\\App.ProyectoCreditosMario\\App.Service.Implementacion\\App.Service.Implementacion.csproj": {
+              "projectPath": "E:\\APP_GIT\\App.ProyectoCreditosMario\\App.Service.Implementacion\\App.Service.Implementacion.csproj"
             }
           }
         }

@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "Lef5PpM2tSE=",
+  "dgSpecHash": "J/TLxDh91LE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\mleiva\\source\\repos\\App.ProyectoCreditosMario\\App.ProyectoCreditos.Datos\\App.ProyectoCreditos.Datos.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "E:\\APP_GIT\\App.ProyectoCreditosMario\\App.ProyectoCreditos.Datos\\App.ProyectoCreditos.Datos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mleiva\\.nuget\\packages\\dapper\\2.1.66\\dapper.2.1.66.nupkg.sha512",
+    "C:\\Users\\mleiva\\.nuget\\packages\\dapper.oracle\\2.0.2\\dapper.oracle.2.0.2.nupkg.sha512"
+  ],
   "logs": []
 }

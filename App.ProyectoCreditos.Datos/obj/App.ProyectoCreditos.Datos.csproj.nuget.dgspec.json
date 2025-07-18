@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mleiva\\source\\repos\\App.ProyectoCreditosMario\\App.ProyectoCreditos.Datos\\App.ProyectoCreditos.Datos.csproj": {}
+    "E:\\APP_GIT\\App.ProyectoCreditosMario\\App.ProyectoCreditos.Datos\\App.ProyectoCreditos.Datos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mleiva\\source\\repos\\App.ProyectoCreditosMario\\App.ProyectoCreditos.Datos\\App.ProyectoCreditos.Datos.csproj": {
+    "E:\\APP_GIT\\App.ProyectoCreditosMario\\App.ProyectoCreditos.Datos\\App.ProyectoCreditos.Datos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mleiva\\source\\repos\\App.ProyectoCreditosMario\\App.ProyectoCreditos.Datos\\App.ProyectoCreditos.Datos.csproj",
+        "projectUniqueName": "E:\\APP_GIT\\App.ProyectoCreditosMario\\App.ProyectoCreditos.Datos\\App.ProyectoCreditos.Datos.csproj",
         "projectName": "App.ProyectoCreditos.Datos",
-        "projectPath": "C:\\Users\\mleiva\\source\\repos\\App.ProyectoCreditosMario\\App.ProyectoCreditos.Datos\\App.ProyectoCreditos.Datos.csproj",
+        "projectPath": "E:\\APP_GIT\\App.ProyectoCreditosMario\\App.ProyectoCreditos.Datos\\App.ProyectoCreditos.Datos.csproj",
         "packagesPath": "C:\\Users\\mleiva\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mleiva\\source\\repos\\App.ProyectoCreditosMario\\App.ProyectoCreditos.Datos\\obj\\",
+        "outputPath": "E:\\APP_GIT\\App.ProyectoCreditosMario\\App.ProyectoCreditos.Datos\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -49,6 +49,16 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.1.66, )"
+            },
+            "Dapper.Oracle": {
+              "target": "Package",
+              "version": "[2.0.2, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

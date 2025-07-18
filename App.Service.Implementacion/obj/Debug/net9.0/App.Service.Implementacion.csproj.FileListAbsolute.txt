@@ -10,3 +10,16 @@ C:\Users\mleiva\source\repos\App.ProyectoCreditosMario\App.Service.Implementacio
 C:\Users\mleiva\source\repos\App.ProyectoCreditosMario\App.Service.Implementacion\obj\Debug\net9.0\App.Service.Implementacion.pdb
 C:\Users\mleiva\source\repos\App.ProyectoCreditosMario\App.Service.Implementacion\obj\Debug\net9.0\ref\App.Service.Implementacion.dll
 C:\Users\mleiva\source\repos\App.ProyectoCreditosMario\App.Service.Implementacion\obj\Debug\net9.0\App.Service.Implementacion.csproj.AssemblyReference.cache
+E:\APP_GIT\App.ProyectoCreditosMario\App.Service.Implementacion\bin\Debug\net9.0\App.Service.Implementacion.deps.json
+E:\APP_GIT\App.ProyectoCreditosMario\App.Service.Implementacion\bin\Debug\net9.0\App.Service.Implementacion.dll
+E:\APP_GIT\App.ProyectoCreditosMario\App.Service.Implementacion\bin\Debug\net9.0\App.Service.Implementacion.pdb
+E:\APP_GIT\App.ProyectoCreditosMario\App.Service.Implementacion\obj\Debug\net9.0\App.Service.Implementacion.csproj.AssemblyReference.cache
+E:\APP_GIT\App.ProyectoCreditosMario\App.Service.Implementacion\obj\Debug\net9.0\App.Service.Implementacion.GeneratedMSBuildEditorConfig.editorconfig
+E:\APP_GIT\App.ProyectoCreditosMario\App.Service.Implementacion\obj\Debug\net9.0\App.Service.Implementacion.AssemblyInfoInputs.cache
+E:\APP_GIT\App.ProyectoCreditosMario\App.Service.Implementacion\obj\Debug\net9.0\App.Service.Implementacion.AssemblyInfo.cs
+E:\APP_GIT\App.ProyectoCreditosMario\App.Service.Implementacion\obj\Debug\net9.0\App.Service.Implementacion.csproj.CoreCompileInputs.cache
+E:\APP_GIT\App.ProyectoCreditosMario\App.Service.Implementacion\obj\Debug\net9.0\App.Service.Implementacion.sourcelink.json
+E:\APP_GIT\App.ProyectoCreditosMario\App.Service.Implementacion\obj\Debug\net9.0\App.Service.Implementacion.dll
+E:\APP_GIT\App.ProyectoCreditosMario\App.Service.Implementacion\obj\Debug\net9.0\refint\App.Service.Implementacion.dll
+E:\APP_GIT\App.ProyectoCreditosMario\App.Service.Implementacion\obj\Debug\net9.0\App.Service.Implementacion.pdb
+E:\APP_GIT\App.ProyectoCreditosMario\App.Service.Implementacion\obj\Debug\net9.0\ref\App.Service.Implementacion.dll

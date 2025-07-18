@@ -128,11 +128,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mleiva\\source\\repos\\App.ProyectoCreditosMario\\App.Service.Implementacion\\App.Service.Implementacion.csproj",
+      "projectUniqueName": "E:\\APP_GIT\\App.ProyectoCreditosMario\\App.Service.Implementacion\\App.Service.Implementacion.csproj",
       "projectName": "App.Service.Implementacion",
-      "projectPath": "C:\\Users\\mleiva\\source\\repos\\App.ProyectoCreditosMario\\App.Service.Implementacion\\App.Service.Implementacion.csproj",
+      "projectPath": "E:\\APP_GIT\\App.ProyectoCreditosMario\\App.Service.Implementacion\\App.Service.Implementacion.csproj",
       "packagesPath": "C:\\Users\\mleiva\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mleiva\\source\\repos\\App.ProyectoCreditosMario\\App.Service.Implementacion\\obj\\",
+      "outputPath": "E:\\APP_GIT\\App.ProyectoCreditosMario\\App.Service.Implementacion\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
