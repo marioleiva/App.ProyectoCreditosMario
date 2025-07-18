@@ -1,11 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "J/TLxDh91LE=",
+  "dgSpecHash": "So0ycbTdRB4=",
   "success": true,
   "projectFilePath": "E:\\APP_GIT\\App.ProyectoCreditosMario\\App.ProyectoCreditos.Datos\\App.ProyectoCreditos.Datos.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mleiva\\.nuget\\packages\\dapper\\2.1.66\\dapper.2.1.66.nupkg.sha512",
-    "C:\\Users\\mleiva\\.nuget\\packages\\dapper.oracle\\2.0.2\\dapper.oracle.2.0.2.nupkg.sha512"
+    "C:\\Users\\mleiva\\.nuget\\packages\\dapper.oracle\\2.0.2\\dapper.oracle.2.0.2.nupkg.sha512",
+    "C:\\Users\\mleiva\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
+    "C:\\Users\\mleiva\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
+    "C:\\Users\\mleiva\\.nuget\\packages\\system.io.pipelines\\5.0.2\\system.io.pipelines.5.0.2.nupkg.sha512"
   ],
   "logs": []
 }

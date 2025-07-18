@@ -3,32 +3,48 @@
   "WorkspaceRootPath": "E:\\APP_GIT\\App.ProyectoCreditosMario\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3B957FCE-2904-46FC-A89B-C4875990D1E1}|App.Service.Implementacion\\App.Service.Implementacion.csproj|e:\\app_git\\app.proyectocreditosmario\\app.service.implementacion\\request\\evidenciasrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B957FCE-2904-46FC-A89B-C4875990D1E1}|App.Service.Implementacion\\App.Service.Implementacion.csproj|solutionrelative:app.service.implementacion\\request\\evidenciasrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B957FCE-2904-46FC-A89B-C4875990D1E1}|App.Service.Implementacion\\App.Service.Implementacion.csproj|e:\\app_git\\app.proyectocreditosmario\\app.service.implementacion\\request\\personarequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B957FCE-2904-46FC-A89B-C4875990D1E1}|App.Service.Implementacion\\App.Service.Implementacion.csproj|solutionrelative:app.service.implementacion\\request\\personarequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3B957FCE-2904-46FC-A89B-C4875990D1E1}|App.Service.Implementacion\\App.Service.Implementacion.csproj|e:\\app_git\\app.proyectocreditosmario\\app.service.implementacion\\handlers\\icreditohandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B957FCE-2904-46FC-A89B-C4875990D1E1}|App.Service.Implementacion\\App.Service.Implementacion.csproj|solutionrelative:app.service.implementacion\\handlers\\icreditohandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3B957FCE-2904-46FC-A89B-C4875990D1E1}|App.Service.Implementacion\\App.Service.Implementacion.csproj|e:\\app_git\\app.proyectocreditosmario\\app.service.implementacion\\request\\creditorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3B957FCE-2904-46FC-A89B-C4875990D1E1}|App.Service.Implementacion\\App.Service.Implementacion.csproj|solutionrelative:app.service.implementacion\\request\\creditorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{3B957FCE-2904-46FC-A89B-C4875990D1E1}|App.Service.Implementacion\\App.Service.Implementacion.csproj|e:\\app_git\\app.proyectocreditosmario\\app.service.implementacion\\request\\creditoevidenciarequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B957FCE-2904-46FC-A89B-C4875990D1E1}|App.Service.Implementacion\\App.Service.Implementacion.csproj|solutionrelative:app.service.implementacion\\request\\creditoevidenciarequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B957FCE-2904-46FC-A89B-C4875990D1E1}|App.Service.Implementacion\\App.Service.Implementacion.csproj|e:\\app_git\\app.proyectocreditosmario\\app.service.implementacion\\request\\personarequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B957FCE-2904-46FC-A89B-C4875990D1E1}|App.Service.Implementacion\\App.Service.Implementacion.csproj|solutionrelative:app.service.implementacion\\request\\personarequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B957FCE-2904-46FC-A89B-C4875990D1E1}|App.Service.Implementacion\\App.Service.Implementacion.csproj|e:\\app_git\\app.proyectocreditosmario\\app.service.implementacion\\request\\creditodetalleevidenciarequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B957FCE-2904-46FC-A89B-C4875990D1E1}|App.Service.Implementacion\\App.Service.Implementacion.csproj|solutionrelative:app.service.implementacion\\request\\creditodetalleevidenciarequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B957FCE-2904-46FC-A89B-C4875990D1E1}|App.Service.Implementacion\\App.Service.Implementacion.csproj|e:\\app_git\\app.proyectocreditosmario\\app.service.implementacion\\responses\\generalresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B957FCE-2904-46FC-A89B-C4875990D1E1}|App.Service.Implementacion\\App.Service.Implementacion.csproj|solutionrelative:app.service.implementacion\\responses\\generalresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{02DBDF60-B84E-4A59-8123-846F57084899}|App.ProyectoCreditos.Datos\\App.ProyectoCreditos.Datos.csproj|e:\\app_git\\app.proyectocreditosmario\\app.proyectocreditos.datos\\repository\\dcreditohandlers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{02DBDF60-B84E-4A59-8123-846F57084899}|App.ProyectoCreditos.Datos\\App.ProyectoCreditos.Datos.csproj|solutionrelative:app.proyectocreditos.datos\\repository\\dcreditohandlers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{02DBDF60-B84E-4A59-8123-846F57084899}|App.ProyectoCreditos.Datos\\App.ProyectoCreditos.Datos.csproj|e:\\app_git\\app.proyectocreditosmario\\app.proyectocreditos.datos\\connection\\conexiones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{02DBDF60-B84E-4A59-8123-846F57084899}|App.ProyectoCreditos.Datos\\App.ProyectoCreditos.Datos.csproj|solutionrelative:app.proyectocreditos.datos\\connection\\conexiones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B957FCE-2904-46FC-A89B-C4875990D1E1}|App.Service.Implementacion\\App.Service.Implementacion.csproj|e:\\app_git\\app.proyectocreditosmario\\app.service.implementacion\\handlers\\icreditohandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B957FCE-2904-46FC-A89B-C4875990D1E1}|App.Service.Implementacion\\App.Service.Implementacion.csproj|solutionrelative:app.service.implementacion\\handlers\\icreditohandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CABE9E7C-249C-4BC9-BB80-40836209C297}|App.ProyectoCreditos.WebApi\\App.ProyectoCreditos.WebApi.csproj|e:\\app_git\\app.proyectocreditosmario\\app.proyectocreditos.webapi\\controllers\\creditocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CABE9E7C-249C-4BC9-BB80-40836209C297}|App.ProyectoCreditos.WebApi\\App.ProyectoCreditos.WebApi.csproj|solutionrelative:app.proyectocreditos.webapi\\controllers\\creditocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CABE9E7C-249C-4BC9-BB80-40836209C297}|App.ProyectoCreditos.WebApi\\App.ProyectoCreditos.WebApi.csproj|e:\\app_git\\app.proyectocreditosmario\\app.proyectocreditos.webapi\\controllers\\filecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CABE9E7C-249C-4BC9-BB80-40836209C297}|App.ProyectoCreditos.WebApi\\App.ProyectoCreditos.WebApi.csproj|solutionrelative:app.proyectocreditos.webapi\\controllers\\filecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B957FCE-2904-46FC-A89B-C4875990D1E1}|App.Service.Implementacion\\App.Service.Implementacion.csproj|e:\\app_git\\app.proyectocreditosmario\\app.service.implementacion\\request\\fileuploaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B957FCE-2904-46FC-A89B-C4875990D1E1}|App.Service.Implementacion\\App.Service.Implementacion.csproj|solutionrelative:app.service.implementacion\\request\\fileuploaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02DBDF60-B84E-4A59-8123-846F57084899}|App.ProyectoCreditos.Datos\\App.ProyectoCreditos.Datos.csproj|e:\\app_git\\app.proyectocreditosmario\\app.proyectocreditos.datos\\connection\\conexiones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02DBDF60-B84E-4A59-8123-846F57084899}|App.ProyectoCreditos.Datos\\App.ProyectoCreditos.Datos.csproj|solutionrelative:app.proyectocreditos.datos\\connection\\conexiones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{02DBDF60-B84E-4A59-8123-846F57084899}|App.ProyectoCreditos.Datos\\App.ProyectoCreditos.Datos.csproj|e:\\app_git\\app.proyectocreditosmario\\app.proyectocreditos.datos\\app.proyectocreditos.datos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -37,14 +53,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{CABE9E7C-249C-4BC9-BB80-40836209C297}|App.ProyectoCreditos.WebApi\\App.ProyectoCreditos.WebApi.csproj|e:\\app_git\\app.proyectocreditosmario\\app.proyectocreditos.webapi\\app.proyectocreditos.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{CABE9E7C-249C-4BC9-BB80-40836209C297}|App.ProyectoCreditos.WebApi\\App.ProyectoCreditos.WebApi.csproj|solutionrelative:app.proyectocreditos.webapi\\app.proyectocreditos.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CABE9E7C-249C-4BC9-BB80-40836209C297}|App.ProyectoCreditos.WebApi\\App.ProyectoCreditos.WebApi.csproj|e:\\app_git\\app.proyectocreditosmario\\app.proyectocreditos.webapi\\controllers\\filecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CABE9E7C-249C-4BC9-BB80-40836209C297}|App.ProyectoCreditos.WebApi\\App.ProyectoCreditos.WebApi.csproj|solutionrelative:app.proyectocreditos.webapi\\controllers\\filecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B957FCE-2904-46FC-A89B-C4875990D1E1}|App.Service.Implementacion\\App.Service.Implementacion.csproj|e:\\app_git\\app.proyectocreditosmario\\app.service.implementacion\\responses\\generalresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B957FCE-2904-46FC-A89B-C4875990D1E1}|App.Service.Implementacion\\App.Service.Implementacion.csproj|solutionrelative:app.service.implementacion\\responses\\generalresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CABE9E7C-249C-4BC9-BB80-40836209C297}|App.ProyectoCreditos.WebApi\\App.ProyectoCreditos.WebApi.csproj|e:\\app_git\\app.proyectocreditosmario\\app.proyectocreditos.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -70,7 +78,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -78,68 +86,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "PersonaRequest.cs",
-              "DocumentMoniker": "E:\\APP_GIT\\App.ProyectoCreditosMario\\App.Service.Implementacion\\Request\\PersonaRequest.cs",
-              "RelativeDocumentMoniker": "App.Service.Implementacion\\Request\\PersonaRequest.cs",
-              "ToolTip": "E:\\APP_GIT\\App.ProyectoCreditosMario\\App.Service.Implementacion\\Request\\PersonaRequest.cs",
-              "RelativeToolTip": "App.Service.Implementacion\\Request\\PersonaRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "CreditoEvidenciaRequest.cs",
+              "DocumentMoniker": "E:\\APP_GIT\\App.ProyectoCreditosMario\\App.Service.Implementacion\\Request\\CreditoEvidenciaRequest.cs",
+              "RelativeDocumentMoniker": "App.Service.Implementacion\\Request\\CreditoEvidenciaRequest.cs",
+              "ToolTip": "E:\\APP_GIT\\App.ProyectoCreditosMario\\App.Service.Implementacion\\Request\\CreditoEvidenciaRequest.cs",
+              "RelativeToolTip": "App.Service.Implementacion\\Request\\CreditoEvidenciaRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-17T23:18:36.842Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "EvidenciasRequest.cs",
-              "DocumentMoniker": "E:\\APP_GIT\\App.ProyectoCreditosMario\\App.Service.Implementacion\\Request\\EvidenciasRequest.cs",
-              "RelativeDocumentMoniker": "App.Service.Implementacion\\Request\\EvidenciasRequest.cs",
-              "ToolTip": "E:\\APP_GIT\\App.ProyectoCreditosMario\\App.Service.Implementacion\\Request\\EvidenciasRequest.cs",
-              "RelativeToolTip": "App.Service.Implementacion\\Request\\EvidenciasRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-17T22:34:14.474Z",
+              "WhenOpened": "2025-07-18T22:08:16.172Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
+              "Title": "CreditoDetalleEvidenciaRequest.cs",
+              "DocumentMoniker": "E:\\APP_GIT\\App.ProyectoCreditosMario\\App.Service.Implementacion\\Request\\CreditoDetalleEvidenciaRequest.cs",
+              "RelativeDocumentMoniker": "App.Service.Implementacion\\Request\\CreditoDetalleEvidenciaRequest.cs",
+              "ToolTip": "E:\\APP_GIT\\App.ProyectoCreditosMario\\App.Service.Implementacion\\Request\\CreditoDetalleEvidenciaRequest.cs",
+              "RelativeToolTip": "App.Service.Implementacion\\Request\\CreditoDetalleEvidenciaRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T22:07:19.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "CreditoRequest.cs",
               "DocumentMoniker": "E:\\APP_GIT\\App.ProyectoCreditosMario\\App.Service.Implementacion\\Request\\CreditoRequest.cs",
               "RelativeDocumentMoniker": "App.Service.Implementacion\\Request\\CreditoRequest.cs",
               "ToolTip": "E:\\APP_GIT\\App.ProyectoCreditosMario\\App.Service.Implementacion\\Request\\CreditoRequest.cs",
               "RelativeToolTip": "App.Service.Implementacion\\Request\\CreditoRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-17T22:24:09.936Z"
+              "WhenOpened": "2025-07-18T21:56:29.222Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "ICreditoHandler.cs",
               "DocumentMoniker": "E:\\APP_GIT\\App.ProyectoCreditosMario\\App.Service.Implementacion\\Handlers\\ICreditoHandler.cs",
               "RelativeDocumentMoniker": "App.Service.Implementacion\\Handlers\\ICreditoHandler.cs",
               "ToolTip": "E:\\APP_GIT\\App.ProyectoCreditosMario\\App.Service.Implementacion\\Handlers\\ICreditoHandler.cs",
               "RelativeToolTip": "App.Service.Implementacion\\Handlers\\ICreditoHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAgAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-17T22:21:30.725Z"
+              "WhenOpened": "2025-07-18T21:56:12.305Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "DCreditoHandlers.cs",
-              "DocumentMoniker": "E:\\APP_GIT\\App.ProyectoCreditosMario\\App.ProyectoCreditos.Datos\\Repository\\DCreditoHandlers.cs",
-              "RelativeDocumentMoniker": "App.ProyectoCreditos.Datos\\Repository\\DCreditoHandlers.cs",
-              "ToolTip": "E:\\APP_GIT\\App.ProyectoCreditosMario\\App.ProyectoCreditos.Datos\\Repository\\DCreditoHandlers.cs",
-              "RelativeToolTip": "App.ProyectoCreditos.Datos\\Repository\\DCreditoHandlers.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-17T22:20:59.962Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "CreditoController.cs",
               "DocumentMoniker": "E:\\APP_GIT\\App.ProyectoCreditosMario\\App.ProyectoCreditos.WebApi\\Controllers\\CreditoController.cs",
               "RelativeDocumentMoniker": "App.ProyectoCreditos.WebApi\\Controllers\\CreditoController.cs",
@@ -147,23 +146,77 @@
               "RelativeToolTip": "App.ProyectoCreditos.WebApi\\Controllers\\CreditoController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-17T22:15:50.413Z"
+              "WhenOpened": "2025-07-17T22:15:50.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PersonaRequest.cs",
+              "DocumentMoniker": "E:\\APP_GIT\\App.ProyectoCreditosMario\\App.Service.Implementacion\\Request\\PersonaRequest.cs",
+              "RelativeDocumentMoniker": "App.Service.Implementacion\\Request\\PersonaRequest.cs",
+              "ToolTip": "E:\\APP_GIT\\App.ProyectoCreditosMario\\App.Service.Implementacion\\Request\\PersonaRequest.cs",
+              "RelativeToolTip": "App.Service.Implementacion\\Request\\PersonaRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T23:18:36.842Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
+              "Title": "FileUploadDTO.cs",
+              "DocumentMoniker": "E:\\APP_GIT\\App.ProyectoCreditosMario\\App.Service.Implementacion\\Request\\FileUploadDTO.cs",
+              "RelativeDocumentMoniker": "App.Service.Implementacion\\Request\\FileUploadDTO.cs",
+              "ToolTip": "E:\\APP_GIT\\App.ProyectoCreditosMario\\App.Service.Implementacion\\Request\\FileUploadDTO.cs",
+              "RelativeToolTip": "App.Service.Implementacion\\Request\\FileUploadDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T21:52:28.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "FileController.cs",
               "DocumentMoniker": "E:\\APP_GIT\\App.ProyectoCreditosMario\\App.ProyectoCreditos.WebApi\\Controllers\\FileController.cs",
               "RelativeDocumentMoniker": "App.ProyectoCreditos.WebApi\\Controllers\\FileController.cs",
               "ToolTip": "E:\\APP_GIT\\App.ProyectoCreditosMario\\App.ProyectoCreditos.WebApi\\Controllers\\FileController.cs",
               "RelativeToolTip": "App.ProyectoCreditos.WebApi\\Controllers\\FileController.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAABgAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAC0AAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-15T23:22:44.782Z"
+              "WhenOpened": "2025-07-15T23:22:44.782Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 5,
+              "Title": "GeneralResponseDTO.cs",
+              "DocumentMoniker": "E:\\APP_GIT\\App.ProyectoCreditosMario\\App.Service.Implementacion\\Responses\\GeneralResponseDTO.cs",
+              "RelativeDocumentMoniker": "App.Service.Implementacion\\Responses\\GeneralResponseDTO.cs",
+              "ToolTip": "E:\\APP_GIT\\App.ProyectoCreditosMario\\App.Service.Implementacion\\Responses\\GeneralResponseDTO.cs",
+              "RelativeToolTip": "App.Service.Implementacion\\Responses\\GeneralResponseDTO.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAUwA8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T23:24:02.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DCreditoHandlers.cs",
+              "DocumentMoniker": "E:\\APP_GIT\\App.ProyectoCreditosMario\\App.ProyectoCreditos.Datos\\Repository\\DCreditoHandlers.cs",
+              "RelativeDocumentMoniker": "App.ProyectoCreditos.Datos\\Repository\\DCreditoHandlers.cs",
+              "ToolTip": "E:\\APP_GIT\\App.ProyectoCreditosMario\\App.ProyectoCreditos.Datos\\Repository\\DCreditoHandlers.cs",
+              "RelativeToolTip": "App.ProyectoCreditos.Datos\\Repository\\DCreditoHandlers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T22:20:59.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "App.ProyectoCreditos.WebApi.http",
               "DocumentMoniker": "E:\\APP_GIT\\App.ProyectoCreditosMario\\App.ProyectoCreditos.WebApi\\App.ProyectoCreditos.WebApi.http",
               "RelativeDocumentMoniker": "App.ProyectoCreditos.WebApi\\App.ProyectoCreditos.WebApi.http",
@@ -175,7 +228,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "Conexiones.cs",
               "DocumentMoniker": "E:\\APP_GIT\\App.ProyectoCreditosMario\\App.ProyectoCreditos.Datos\\Connection\\Conexiones.cs",
               "RelativeDocumentMoniker": "App.ProyectoCreditos.Datos\\Connection\\Conexiones.cs",
@@ -187,7 +240,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "launchSettings.json",
               "DocumentMoniker": "E:\\APP_GIT\\App.ProyectoCreditosMario\\App.ProyectoCreditos.WebApi\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "App.ProyectoCreditos.WebApi\\Properties\\launchSettings.json",
@@ -199,7 +252,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "App.ProyectoCreditos.WebApi.csproj",
               "DocumentMoniker": "E:\\APP_GIT\\App.ProyectoCreditosMario\\App.ProyectoCreditos.WebApi\\App.ProyectoCreditos.WebApi.csproj",
               "RelativeDocumentMoniker": "App.ProyectoCreditos.WebApi\\App.ProyectoCreditos.WebApi.csproj",
@@ -211,7 +264,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\APP_GIT\\App.ProyectoCreditosMario\\App.ProyectoCreditos.WebApi\\Program.cs",
               "RelativeDocumentMoniker": "App.ProyectoCreditos.WebApi\\Program.cs",
@@ -223,7 +276,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "App.ProyectoCreditos.Datos.csproj",
               "DocumentMoniker": "E:\\APP_GIT\\App.ProyectoCreditosMario\\App.ProyectoCreditos.Datos\\App.ProyectoCreditos.Datos.csproj",
               "RelativeDocumentMoniker": "App.ProyectoCreditos.Datos\\App.ProyectoCreditos.Datos.csproj",
@@ -235,19 +288,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "GeneralResponseDTO.cs",
-              "DocumentMoniker": "E:\\APP_GIT\\App.ProyectoCreditosMario\\App.Service.Implementacion\\Responses\\GeneralResponseDTO.cs",
-              "RelativeDocumentMoniker": "App.Service.Implementacion\\Responses\\GeneralResponseDTO.cs",
-              "ToolTip": "E:\\APP_GIT\\App.ProyectoCreditosMario\\App.Service.Implementacion\\Responses\\GeneralResponseDTO.cs",
-              "RelativeToolTip": "App.Service.Implementacion\\Responses\\GeneralResponseDTO.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAUwAkAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-15T23:24:02.509Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "App.Service.Implementacion.csproj",
               "DocumentMoniker": "E:\\APP_GIT\\App.ProyectoCreditosMario\\App.Service.Implementacion\\App.Service.Implementacion.csproj",
               "RelativeDocumentMoniker": "App.Service.Implementacion\\App.Service.Implementacion.csproj",

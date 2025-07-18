@@ -11,4 +11,8 @@
     <PackageReference Include="Dapper.Oracle" Version="2.0.2" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\App.Service.Implementacion\App.Service.Implementacion.csproj" />
+  </ItemGroup>
+
 </Project>
