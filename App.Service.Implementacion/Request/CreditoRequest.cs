@@ -8,14 +8,12 @@ namespace App.Service.Implementacion.Request
 {
     public class CreditoRequest
     {
-        public int Id { get; set; }
-        public string TipoCredito { get; set; }
-        public double Importe { get; set; }
-        public int NumCuotas { get; set; }
-        public double Interes { get; set; }
-        public string Nombres { get; set; }
-        public string Apellidos { get; set; }
-        public string Motivo { get; set; }
-
+        public int idPersona { get; set; }
+        public int idTipoCredito { get; set; }
+        public double importe { get; set; }
+        public double interes { get; set; }
+        public int numCuotas { get; set; }
+        public string motivo { get; set; }
+        public List<CreditoEvidenciaRequest> evidencias { get; set; }
     }
 }

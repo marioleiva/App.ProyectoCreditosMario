@@ -10,7 +10,9 @@ namespace App.Service.Implementacion.Handlers
 {
     public interface ICreditoHandler
     {
-        Task<GeneralResponseDTO> CargarDatosCreditosJson(CreditoRequest cliente);
+        CreditoResponses CargarDatosCreditosJson(CreditoRequest c);
+        CreditoEvidenciaResponses CargarDatosEvidenciaJson(CreditoEvidenciaRequest c);
+
         Task<GeneralResponseDTO> CargarDatosCreditosEvidenciaJson(CreditoDetalleEvidenciaRequest cliente);
     }
 }

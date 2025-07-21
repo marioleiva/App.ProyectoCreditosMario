@@ -23,3 +23,16 @@ E:\APP_GIT\App.ProyectoCreditosMario\App.Service.Implementacion\obj\Debug\net9.0
 E:\APP_GIT\App.ProyectoCreditosMario\App.Service.Implementacion\obj\Debug\net9.0\refint\App.Service.Implementacion.dll
 E:\APP_GIT\App.ProyectoCreditosMario\App.Service.Implementacion\obj\Debug\net9.0\App.Service.Implementacion.pdb
 E:\APP_GIT\App.ProyectoCreditosMario\App.Service.Implementacion\obj\Debug\net9.0\ref\App.Service.Implementacion.dll
+J:\GITHUB\App.ProyectoCreditosMario\App.Service.Implementacion\bin\Debug\net9.0\App.Service.Implementacion.deps.json
+J:\GITHUB\App.ProyectoCreditosMario\App.Service.Implementacion\bin\Debug\net9.0\App.Service.Implementacion.dll
+J:\GITHUB\App.ProyectoCreditosMario\App.Service.Implementacion\bin\Debug\net9.0\App.Service.Implementacion.pdb
+J:\GITHUB\App.ProyectoCreditosMario\App.Service.Implementacion\obj\Debug\net9.0\App.Service.Implementacion.csproj.AssemblyReference.cache
+J:\GITHUB\App.ProyectoCreditosMario\App.Service.Implementacion\obj\Debug\net9.0\App.Service.Implementacion.GeneratedMSBuildEditorConfig.editorconfig
+J:\GITHUB\App.ProyectoCreditosMario\App.Service.Implementacion\obj\Debug\net9.0\App.Service.Implementacion.AssemblyInfoInputs.cache
+J:\GITHUB\App.ProyectoCreditosMario\App.Service.Implementacion\obj\Debug\net9.0\App.Service.Implementacion.AssemblyInfo.cs
+J:\GITHUB\App.ProyectoCreditosMario\App.Service.Implementacion\obj\Debug\net9.0\App.Service.Implementacion.csproj.CoreCompileInputs.cache
+J:\GITHUB\App.ProyectoCreditosMario\App.Service.Implementacion\obj\Debug\net9.0\App.Service.Implementacion.sourcelink.json
+J:\GITHUB\App.ProyectoCreditosMario\App.Service.Implementacion\obj\Debug\net9.0\App.Service.Implementacion.dll
+J:\GITHUB\App.ProyectoCreditosMario\App.Service.Implementacion\obj\Debug\net9.0\refint\App.Service.Implementacion.dll
+J:\GITHUB\App.ProyectoCreditosMario\App.Service.Implementacion\obj\Debug\net9.0\App.Service.Implementacion.pdb
+J:\GITHUB\App.ProyectoCreditosMario\App.Service.Implementacion\obj\Debug\net9.0\ref\App.Service.Implementacion.dll

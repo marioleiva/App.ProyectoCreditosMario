@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace App.Service.Implementacion.Request
 {
-    public class CreditoDetalleEvidenciaRequest : CreditoEvidenciaRequest
+    public class CreditoDetalleEvidenciaRequest
     {
-        public List<CreditoEvidenciaRequest> CreditoEvidencias { get; set; } = new List<CreditoEvidenciaRequest>();
+        public List<CreditoRequest> CreditoEvidencias { get; set; } = new List<CreditoRequest>();
 
     }
 }

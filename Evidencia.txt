@@ -1,0 +1,75 @@
+{
+  "creditoEvidencias": [
+    {
+      "idPersona": 9,
+      "idTipoCredito": 2,
+      "importe": 10000,
+      "interes": 20,
+      "numCuotas": 10,
+      "motivo": "nn"
+    },
+{
+      "idPersona": 10,
+      "idTipoCredito": 2,
+      "importe": 10000,
+      "interes": 10,
+      "numCuotas": 12,
+      "motivo": "n2n"
+    }
+  ]
+}
+
+
+
+{
+  "creditoEvidencias": [
+    {
+      "idPersona": 12,
+      "idTipoCredito": 1,
+      "importe": 11111110,
+      "interes": 10,
+      "numCuotas": 10,
+      "motivo": "nn",
+      "evidencias": [
+        {
+          "id": 0,
+          "idCredito": 0,
+          "idUsuario": 7,
+          "titulo": "nnnnnnnnnnnnn",
+          "ubicacionArchivo": "c$sdfdfsfs"
+        },
+        {
+          "id": 0,
+          "idCredito": 0,
+          "idUsuario": 7,
+          "titulo": "nnnnnnnnnnnnn22222",
+          "ubicacionArchivo": "c$sdfdfsfasdadasds"
+        }
+      ]
+    },
+{
+      "idPersona": 14,
+      "idTipoCredito": 2,
+      "importe": 2222222222,
+      "interes": 10,
+      "numCuotas": 10,
+      "motivo": "nn",
+      "evidencias": [
+        {
+          "id": 0,
+          "idCredito": 0,
+          "idUsuario": 7,
+          "titulo": "nnnnnnnnnnnnn22222",
+          "ubicacionArchivo": "c$sdfdfsfs"
+        },
+        {
+          "id": 0,
+          "idCredito": 0,
+          "idUsuario": 7,
+          "titulo": "nnnnnnnnnnnnn2222233333",
+          "ubicacionArchivo": "c$sdfdfsfasdadasds"
+        }
+      ]
+    }
+  ]
+}

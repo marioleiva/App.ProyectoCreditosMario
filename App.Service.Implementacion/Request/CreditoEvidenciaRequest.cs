@@ -8,8 +8,8 @@ namespace App.Service.Implementacion.Request
 {
     public class CreditoEvidenciaRequest
     {
-        public int Id { get; set; }
-        public string idCredito { get; set; }
+        public int id { get; set; }
+        public int idCredito { get; set; }
         public int idUsuario { get; set; }
         public string titulo { get; set; }
         public string ubicacionArchivo { get; set; }

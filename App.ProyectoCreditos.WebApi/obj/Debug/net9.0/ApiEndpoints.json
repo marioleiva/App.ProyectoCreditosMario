@@ -1,5 +1,31 @@
 [
   {
+    "ContainingType": "App.ProyectoCreditos.WebApi.Controllers.CreditoController",
+    "Method": "CargarDatosCreditosJson",
+    "RelativePath": "api/Credito/InsertarCreditoJson",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "creditosDB",
+        "Type": "App.Service.Implementacion.Request.CreditoDetalleEvidenciaRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "App.Service.Implementacion.Responses.GeneralResponse\u00601[[System.Collections.Generic.List\u00601[[App.Service.Implementacion.Responses.CreditoResponses, App.Service.Implementacion, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
     "ContainingType": "App.ProyectoCreditos.WebApi.Controllers.FileController",
     "Method": "UploadFile",
     "RelativePath": "api/File/upload",

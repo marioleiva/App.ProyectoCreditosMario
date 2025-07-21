@@ -122,23 +122,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\mleiva\\.nuget\\packages\\": {},
+    "C:\\Users\\xM4riuSx\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\APP_GIT\\App.ProyectoCreditosMario\\App.Service.Implementacion\\App.Service.Implementacion.csproj",
+      "projectUniqueName": "J:\\GITHUB\\App.ProyectoCreditosMario\\App.Service.Implementacion\\App.Service.Implementacion.csproj",
       "projectName": "App.Service.Implementacion",
-      "projectPath": "E:\\APP_GIT\\App.ProyectoCreditosMario\\App.Service.Implementacion\\App.Service.Implementacion.csproj",
-      "packagesPath": "C:\\Users\\mleiva\\.nuget\\packages\\",
-      "outputPath": "E:\\APP_GIT\\App.ProyectoCreditosMario\\App.Service.Implementacion\\obj\\",
+      "projectPath": "J:\\GITHUB\\App.ProyectoCreditosMario\\App.Service.Implementacion\\App.Service.Implementacion.csproj",
+      "packagesPath": "C:\\Users\\xM4riuSx\\.nuget\\packages\\",
+      "outputPath": "J:\\GITHUB\\App.ProyectoCreditosMario\\App.Service.Implementacion\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\mleiva\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\xM4riuSx\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -192,7 +192,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
