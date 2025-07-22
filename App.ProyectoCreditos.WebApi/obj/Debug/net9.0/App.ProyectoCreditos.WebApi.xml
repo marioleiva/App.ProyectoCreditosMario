@@ -4,6 +4,21 @@
         <name>App.ProyectoCreditos.WebApi</name>
     </assembly>
     <members>
+        <member name="M:App.ProyectoCreditos.WebApi.Controllers.CreditoController.CargarDatosCreditosJson(App.Service.Implementacion.Request.CreditoDetalleEvidenciaRequest)">
+            <summary>
+            Cargar datos de Creditos
+            </summary>
+            <param name="creditosDB"></param>
+            <returns></returns>
+        </member>
+        <member name="M:App.ProyectoCreditos.WebApi.Controllers.CreditoController.GenerarReporteCreditos(System.DateTime,System.DateTime)">
+            <summary>
+            Descargar excel
+            </summary>
+            <param name="fechaInicio"></param>
+            <param name="fechaFin"></param>
+            <returns></returns>
+        </member>
         <member name="M:App.ProyectoCreditos.WebApi.Controllers.FileController.UploadFile(App.Service.Implementacion.Request.FileUploadDTO)">
             <summary>
             EndPoint para subir un archivo
